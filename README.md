@@ -1,5 +1,6 @@
 # P1AD
-Ejercicio1
+LogStats
+
 Se pretende desarrollar una aplicación que cumpla las siguientes especificaciones:
 
   1. Compruebe si la estructura de direcctorios ya existe y si no es así crearla.
