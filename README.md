@@ -10,3 +10,7 @@ Se pretende desarrollar una aplicación que cumpla las siguientes especificacion
 Ejercicio2
 
 Crear un servidor Echo en Java y un cliente para conectarse a él.
+  1. El servidor debe obtener el puerto de un fichero de configuración.
+  2. El servidor debe almacenar los accesos en un fichero donde se almacene la fecha y hora, ip del cliente y el mensaje.
+  3. El cliente obtiene el puerto y la direción de un fichero de configuración.
+
