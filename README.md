@@ -1,4 +1,4 @@
-# P1AD
+# Cliente-Servidor Echo
 LogStats
 
 Crea una aplicación que registra las conexiones de red activas en un fichero.
